@@ -9,7 +9,7 @@ This project uses **Machine Learning models** (Logistic Regression, XGBoost, SVM
 ---
 
 📊 Dataset
-- Source: [Autism Screening Dataset on Kaggle](https://www.kaggle.com/competitions/autism-screening) *(replace with correct link)*  
+- Source: https://raw.githubusercontent.com/sonali250401/ML-AUTISM-PREDICTION/main/data/train.csv
 - Size: **800 samples, 22 features**  
 - Target: `Class/ASD` → `1` (Autism) or `0` (No Autism)  
 
