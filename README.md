@@ -4,7 +4,7 @@ Autism Prediction using Machine Learning
 Autism Spectrum Disorder (ASD) is a developmental disorder affecting communication, behavior, and social interaction.  
 Early detection is crucial for timely intervention and support.  
 
-This project uses **Machine Learning models** (Logistic Regression, XGBoost, SVM) to predict whether an individual may show signs of autism, based on questionnaire responses and demographic features.  
+This project uses **Machine Learning models** (Logistic Regression, XGBoost, Random Forests) to predict whether an individual may show signs of autism, based on questionnaire responses and demographic features.  
 
 ---
 
